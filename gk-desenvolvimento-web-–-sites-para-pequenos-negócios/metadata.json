@@ -1,0 +1,6 @@
+{
+  "name": "GK Desenvolvimento Web – Sites para Pequenos Negócios",
+  "description": "Criação de sites modernos, de baixo custo e com entrega em até 24 horas para pequenas empresas no Brasil. Quem não é visto não é lembrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
